@@ -1,0 +1,36 @@
+# Cache
+__pycache__/
+
+# Environments
+django.env
+service.env
+
+# Virtual environments
+env/
+.env
+ENV/
+venv/
+.venv/
+Pipfile
+Pipfile.lock
+
+# IDE
+.idea/
+.vscode/
+
+# Static files
+certs/
+db/
+files/
+media/
+src/logs/
+
+# Databases
+db.sqlite3
+postgresql_data/
+
+# Lint
+.mypy_cache/
+
+# Tests
+**/.pytest_cache/
